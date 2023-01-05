@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uvMmQLx4n+09j90gqqOtP6qghCDlk6bgkj7LbUtAgL8=",
+  "Source": "MachineFaultsAPI",
+  "BasePath": "_content/MachineFaultsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
